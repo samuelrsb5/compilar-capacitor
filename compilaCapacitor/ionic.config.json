@@ -1,0 +1,8 @@
+{
+  "name": "compilaCapacitor",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
